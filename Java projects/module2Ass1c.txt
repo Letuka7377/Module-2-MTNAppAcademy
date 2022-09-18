@@ -1,0 +1,1 @@
+UniWise is an app that summarizes different university prospectuses for students. Students or prospective students can simply enter their marks and start searching for any course they would like to apply for at any supported institutions.
